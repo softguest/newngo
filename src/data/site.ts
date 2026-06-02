@@ -23,10 +23,10 @@ export const site = {
 };
 
 export const stats = [
-  { value: "120+", label: "Stories Crafted" },
-  { value: "45+", label: "NGO Partners" },
-  { value: "$2.4M", label: "Funds Raised by Clients" },
-  { value: "8 yrs", label: "On the Ground" },
+  { value: "50+", label: "Stories Crafted" },
+  { value: "3+", label: "NGO Partners" },
+  { value: "17M FCFA", label: "Funds Raised by Clients" },
+  { value: "2 yrs", label: "On the Ground" },
 ];
 
 export const services = [
