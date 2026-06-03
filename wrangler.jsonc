@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "newngo",
+  "main": "./dist/server/server.js",
+  "compatibility_date": "2025-06-03",
+
+  "assets": {
+    "directory": "./dist/client"
+  }
+}
