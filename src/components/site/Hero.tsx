@@ -89,7 +89,7 @@ export function Hero() {
       <div className="relative border-y border-border/60 py-6 overflow-hidden">
         <div className="flex items-center gap-3 px-6 mb-4 text-xs uppercase tracking-[0.3em] text-muted-foreground">
           <Star className="w-3 h-3 text-gold fill-gold" />
-          Trusted by mission-driven organizations
+          SDG Story Telling "Highlighting All Goals"
         </div>
         <div className="flex gap-12 whitespace-nowrap marquee">
           {[...partnerLogos, ...partnerLogos].map((l, i) => (

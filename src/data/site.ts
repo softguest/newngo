@@ -25,8 +25,8 @@ export const site = {
 export const stats = [
   { value: "50+", label: "Stories Crafted" },
   { value: "3+", label: "NGO Partners" },
-  { value: "17M FCFA", label: "Funds Raised by Clients" },
-  { value: "2 yrs", label: "On the Ground" },
+  { value: "27M FCFA", label: "Funds Raised by Clients" },
+  { value: "4 yrs", label: "On the Ground" },
 ];
 
 export const services = [
@@ -89,14 +89,16 @@ export const testimonials = [
   },
   {
     quote: "The most cinematic, emotionally honest NGO work I've seen in Central Africa. Every grant application is stronger with his footage.",
-    name: "Sarah Linden",
+    name: "Morine Sirri",
     role: "Program Lead, Brighter Minds Initiative",
   },
 ];
 
 export const partnerLogos = [
-  "UNICEF Partner", "Red Cross", "World Vision", "Plan Intl.",
-  "Save The Children", "CARE", "Oxfam", "Mercy Corps",
+  "No Poverty", "Zero Hunger", "Good Health and Well-being", "Quality Education",
+  "Gender Equality", "Clean Water and Sanitation", "Affordable and Clean Energy", "Decent Work and Economic Growth",
+  "Industry, Innovation and Infrastructure","Reduced Inequality","Sustainable Cities and Communities","Responsible Consumption and Production",
+  "Climate Action","Life Below Water","Life on Land","Peace, Justice and Strong Institutions","Partnerships for the Goals"
 ];
 
 export const whyPoints = [

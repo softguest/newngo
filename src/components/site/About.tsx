@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
-import portrait from "@/assets/portrait.jpg";
+import portrait from "@/assets/portrait.png";
 import { SectionHeader } from "./SectionHeader";
 
 const timeline = [
-  { year: "2017", text: "Picked up a camera in Bamenda to document a local health drive." },
-  { year: "2019", text: "First feature documentary screened at regional NGO summit." },
-  { year: "2021", text: "Began partnering with international humanitarian organizations." },
-  { year: "2024", text: "Films seen by 4M+ people across donor and media channels." },
+  { year: "2022", text: "Picked up a camera in Douala to document a local health drive." },
+  { year: "2023", text: "First feature documentary screened at regional NGO summit." },
+  { year: "2024", text: "Began partnering with national humanitarian organizations." },
+  { year: "2025", text: "Films seen by 4M+ people across donor and media channels." },
 ];
 
 export function About() {
