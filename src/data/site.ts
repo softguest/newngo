@@ -11,7 +11,7 @@ export const site = {
   tagline: "NGO Storytelling Videographer — Cameroon",
   whatsapp: "https://wa.me/237673589999",
   whatsappDisplay: "+237 6 73 58 99 99",
-  email: "hello@subjectspot.com",
+  email: "subjectspot@gmail.com",
   calendly: "https://calendly.com/subjectspot/consult",
   location: "Bamenda, Cameroon",
   socials: {
